@@ -1,4 +1,4 @@
-# 🌍 Global Poll Results Visualizer
+# 🌍Poll Results Visualizer
 
 An interactive data analytics dashboard that analyzes and visualizes poll/survey data across countries, demographics, and time using Python and Streamlit.
 
